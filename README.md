@@ -1,5 +1,9 @@
 
 
+https://github.com/user-attachments/assets/ebdca114-b337-49d4-a5a7-252d7e2072bd
+
+
+
 https://github.com/user-attachments/assets/ee3f8a79-5523-4717-af17-5cc5b566de7f
 
 # 3-body-problem-simulation-in-2D
